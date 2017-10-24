@@ -11,7 +11,7 @@ UI主要使用AntDesignMobile： https://mobile.ant.design/index-cn
 
 名称                         功能
 
-react                       react基础包
+react                        react基础包
 
 react-native                rn基础包
 
