@@ -24,15 +24,6 @@ antd-mobile                 UI框架
 babel-plugin-import         引用UI框架时使用的语法糖（需要修改.babelrc配置文件）
 
 code-push                   热更新，支持内网/外网更新
-测试地址：192.168.12.42:3000
-ios密钥 name：RNTest-ios                                             android密钥 name:RNTest-android
-┌────────────┬───────────────────────────────────────┐              ┌────────────┬───────────────────────────────────────┐
-│ Name       │ Deployment Key                        │              │ Name       │ Deployment Key                        │
-├────────────┼───────────────────────────────────────┤              ├────────────┼───────────────────────────────────────┤
-│ Production │ QrhoC9xehrL4k633c8hNtRtEV1yK4ksvOXqog │              │ Production │ jdsITHnP3q7UqjNCEwwTAV56O2Og4ksvOXqog │
-├────────────┼───────────────────────────────────────┤              ├────────────┼───────────────────────────────────────┤
-│ Staging    │ VAyMf88582owTLMsBWCeDkcSXL2U4ksvOXqog │              │ Staging    │ YAs395eKWGcNa81AhCgH3zo1E3So4ksvOXqog │
-└────────────┴───────────────────────────────────────┘              └────────────┴───────────────────────────────────────┘
 
 jpush-react-native          极光推送
 jcore-react-native 
