@@ -15,5 +15,6 @@ function added：
 notification, hot patch, IM, map, camera, crash report, and other utility dependencies
 
 <br/>
+<br/>
 
-Best appreciation for the translation assisted by my <u>loved</u> girlfriend 
+Best appreciation for the translation assisted by my loved girlfriend. (added by herself)
