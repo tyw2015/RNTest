@@ -16,7 +16,6 @@ function added：
 
 notification, hot patch, IM, map, camera, crash report, and other utility dependencies
 
-
-
+<br/>
 
 Best appreciation for the translation assisted by my loved(?) girlfriend 
