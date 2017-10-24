@@ -14,11 +14,11 @@ function added：
 
 notification, hot patch, IM, map, camera, crash report, and other utility dependencies
 
-usage:
-1.download this project
-2.cd rntest
-3.npm install 
-4.react-native android/ios
+usage:<br/>
+1.download this project<br/>
+2.cd rntest<br/>
+3.npm install<br/>
+4.react-native android/ios<br/>
 
 
 <br/>
