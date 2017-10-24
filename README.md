@@ -12,9 +12,13 @@ UI主要使用AntDesignMobile： https://mobile.ant.design/index-cn
 名称                         功能
 
 react                       react基础包
+
 react-native                rn基础包
+
 react-native-router-flux    rn路由扩展包，用于管理各种场景
+
 react-native-storage        rn内存扩展包，提供类似localstorage的本地存储功能
+
 
 redux                       redux基础包，state树管理器
 react-redux                 redux扩展包，为react提供api
