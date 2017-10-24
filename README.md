@@ -1,11 +1,10 @@
 //createTime:2017.8.31
-
 //createBy:tyw
+<br/>
 
 RN project storage
 
-rn version:0.47.2<br/>
-//latest rn version 0.49, update log: http://reactnative.cn/post/4661
+rn version:0.47.2 //latest rn version 0.49, update log: http://reactnative.cn/post/4661
 
 react：16.0.0-alpha.12
 
@@ -17,4 +16,4 @@ notification, hot patch, IM, map, camera, crash report, and other utility depend
 
 <br/>
 
-Best appreciation for the translation assisted by my loved(?) girlfriend 
+Best appreciation for the translation assisted by my <u>loved</u> girlfriend 
