@@ -1,14 +1,16 @@
 //createTime:2017.8.31
-//creatPerson:tyw
 
-rn个人项目储存
+//createBy:tyw
 
-rn版本：0.47.2
-//最新版本0.49，版本更新日志见http://reactnative.cn/post/4661
+RN project storage
+
+rn version:0.47.2
+
+//latest rn version 0.49, update log: http://reactnative.cn/post/4661
 
 react：16.0.0-alpha.12
 
-架构使用redux + redux-saga + react-native-router-flux
+framework used redux + redux-saga + react-native-router-flux
 
-功能：
-消息推送，热更新，IM，地图，相机，crash收集，及其他工具库
+added function：
+notification, hot patch, IM, map, camera, crash report, and other tool dependencies
