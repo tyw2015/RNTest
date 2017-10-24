@@ -15,3 +15,5 @@ this project is based on redux + redux-saga + react-native-router-flux
 function added：
 
 notification, hot patch, IM, map, camera, crash report, and other utility dependencies
+
+Best appreciation for the translation assist of my loved(?) girlfriend 
