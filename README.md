@@ -4,7 +4,7 @@
 
 react-native初始框架
 
-svn内容不包括node modules (太大不便于上传下载)，使用前进入RN_Project目录执行npm install
+svn内容不包括node modules (太大不便于上传下载)，使用前进入rntest目录执行npm install
 UI主要使用AntDesignMobile： https://mobile.ant.design/index-cn
 
 已集成功能：
