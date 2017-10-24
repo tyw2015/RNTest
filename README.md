@@ -24,4 +24,4 @@ usage:<br/>
 <br/>
 <br/>
 
-Best appreciation for the translation assisted by my loved girlfriend. (added by herself)
+Best appreciation for the translation assisted by my loved girlfriend. (at her request)
