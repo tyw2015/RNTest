@@ -18,7 +18,7 @@ usage:<br/>
 1.download this project<br/>
 2.cd rntest<br/>
 3.npm install<br/>
-4.react-native android/ios<br/>
+4.react-native run-android/run-ios<br/>
 
 
 <br/>
