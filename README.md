@@ -4,8 +4,7 @@
 
 RN project storage
 
-rn version:0.47.2
-
+rn version:0.47.2<br/>
 //latest rn version 0.49, update log: http://reactnative.cn/post/4661
 
 react：16.0.0-alpha.12
