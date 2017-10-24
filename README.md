@@ -10,8 +10,8 @@ rn version:0.47.2
 
 react：16.0.0-alpha.12
 
-redux + redux-saga + react-native-router-flux based framework
+this project is based on redux + redux-saga + react-native-router-flux
 
 function added：
 
-notification, hot patch, IM, map, camera, crash report, and other tool dependencies
+notification, hot patch, IM, map, camera, crash report, and other utility dependencies
