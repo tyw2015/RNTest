@@ -14,6 +14,13 @@ function added：
 
 notification, hot patch, IM, map, camera, crash report, and other utility dependencies
 
+usage:
+1.download this project
+2.cd rntest
+3.npm install 
+4.react-native android/ios
+
+
 <br/>
 <br/>
 
