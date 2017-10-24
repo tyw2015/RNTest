@@ -1,0 +1,43 @@
+{
+  "name": "RNTest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "configureJPush": "node node_modules/jpush-react-native/JPushConfiguration.js",
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "antd-mobile": "^1.6.5",
+    "antd-mobile-demo-data": "^0.1.4",
+    "jcore-react-native": "^1.1.8-beta2",
+    "jmessage-react-plugin": "^2.0.0-beta3",
+    "jpush-react-native": "^2.0.6",
+    "rc-form": "^1.4.7",
+    "react": "16.0.0-alpha.12",
+    "react-intl": "^2.4.0",
+    "react-native": "0.47.2",
+    "react-native-background-task": "^0.2.1",
+    "react-native-baidu-map": "^0.6.0",
+    "react-native-camera": "^0.10.0",
+    "react-native-code-push": "^5.0.0-beta",
+    "react-native-fs": "^2.5.1",
+    "react-native-pdf-view": "^0.3.2",
+    "react-native-router-flux": "^3.38.0",
+    "react-native-storage": "^0.2.2",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-saga": "^0.15.6",
+    "rn-crash-reporter": "^1.0.7"
+  },
+  "devDependencies": {
+    "babel-jest": "20.0.3",
+    "babel-preset-react-native": "3.0.2",
+    "jest": "20.0.4",
+    "react-test-renderer": "16.0.0-alpha.12",
+    "babel-plugin-import": "~1.0.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
