@@ -12,5 +12,6 @@ react：16.0.0-alpha.12
 
 framework used redux + redux-saga + react-native-router-flux
 
-added function：
+function added：
+
 notification, hot patch, IM, map, camera, crash report, and other tool dependencies
