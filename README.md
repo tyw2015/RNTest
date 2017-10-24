@@ -10,7 +10,7 @@ rn version:0.47.2
 
 react：16.0.0-alpha.12
 
-framework used redux + redux-saga + react-native-router-flux
+redux + redux-saga + react-native-router-flux based framework
 
 function added：
 
