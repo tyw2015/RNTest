@@ -23,6 +23,3 @@ usage:<br/>
 
 <br/>
 <br/>
-Best appreciation for the translation assisted by my loved girlfriend. (Finally I lost her)
-<br/>
-<br/>
